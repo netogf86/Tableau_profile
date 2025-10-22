@@ -8,7 +8,7 @@ Here you can explore interactive dashboards I’ve created to analyze data, visu
 ## 🔗 My Tableau Profile
 
 👉 **Visit my Tableau Public page:**  
-[![Tableau Profile](https://img.shields.io/badge/View%20on-Tableau%20Public-blue?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/YOUR_USERNAME)
+[![Tableau Profile](https://img.shields.io/badge/View%20on-Tableau%20Public-blue?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/ernesto.rafael.guti.rrez.flores/vizzes)
 
 ---
 
@@ -37,7 +37,7 @@ Each folder (if included) contains:
 ## 📬 Connect With Me
 Feel free to reach out or explore my other work:
 - **LinkedIn:** [YOUR LINKEDIN PROFILE](https://linkedin.com/in/ernestogutierrezflores/)
-- **Tableau Public:** [YOUR TABLEAU LINK](https://public.tableau.com/app/profile/ernesto.rafael.guti.rrez.flores/vizzes)
+
 
 ---
 
